@@ -1,0 +1,26 @@
+{
+  "name": "challenges-adventjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedegs/challenges-adventJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedegs/challenges-adventJS/issues"
+  },
+  "homepage": "https://github.com/fedegs/challenges-adventJS#readme",
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
